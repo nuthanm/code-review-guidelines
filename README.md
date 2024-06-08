@@ -62,3 +62,6 @@ By adopting these pre-PR checks, you'll significantly contribute to a clean, wel
 
 ### Reference links:
 [Code Review from NDC Conferences](https://www.youtube.com/watch?v=VuG4QhA89es&t=121s)
+[Code with Enginner Playbook](https://github.com/microsoft/code-with-engineering-playbook/blob/main/docs/code-reviews/README.md)
+[Michael Lynch blog article](https://mtlynch.io/human-code-reviews-1/)
+[Google Guidelines](https://google.github.io/eng-practices/review/reviewer/)
